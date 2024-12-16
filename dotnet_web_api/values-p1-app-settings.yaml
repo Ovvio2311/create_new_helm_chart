@@ -1,0 +1,5 @@
+config:
+  dotnetEnv: "K8S_P1"
+  appsettings: |
+    {
+    }
