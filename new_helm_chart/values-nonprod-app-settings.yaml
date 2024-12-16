@@ -1,0 +1,5 @@
+config:
+  dotnetEnv: "K8S_NON_PROD"
+  appsettings: |
+    {
+    }
