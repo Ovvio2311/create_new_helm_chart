@@ -41,7 +41,7 @@ def check_and_create_helm_charts(apps_folder, sample_chart_path):
 
 # Example usage
 apps_folder = "C:\\Users\\jackyli\\source\\repos\\k8s_deployment\\k8s_yaml\\fyp"
-sample_chart_path = "C:\\Users\\jackyli\\source\\repos\\k8s_deployment\\helm_charts_example\\dotnet_web_api"
+sample_chart_path = "C:\\Users\\jackyli\\source\\repos\\k8s_deployment\\helm_charts_example\\k8s-app"
 
 check_and_create_helm_charts(apps_folder, sample_chart_path)
 
