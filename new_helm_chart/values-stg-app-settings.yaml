@@ -1,6 +1,0 @@
-
-config:
-  dotnetEnv: "K8S_STG"
-  appsettings: |
-    {
-    }
